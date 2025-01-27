@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfd09d5f473bc2141adb8577cb7b44ce, type: 3}
+  m_Name: AnimalSkin
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: Animal_Skin
+  icon: {fileID: -973012730, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  itemID: e0f22a5985cbc5145bf02eae0232ceaf
+  itemDescription: "\u4ECE\u725B\u725B\u4E0A\u9762\u5265\u4E0B\u6765\u7684"

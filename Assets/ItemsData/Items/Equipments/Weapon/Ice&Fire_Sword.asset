@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95631bc7eae089b45ba89ceaa4e6bf39, type: 3}
+  m_Name: Ice&Fire_Sword
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Ice&Fire_Sword
+  icon: {fileID: 1242797673, guid: 9c7355b0cb8a5024bba44738f70d9e74, type: 3}
+  equipmentType: 0
+  euipmentCoolDown: 0
+  itemEffects:
+  - {fileID: 11400000, guid: 4257aa702abcf024ebb6ec3af1e7ce30, type: 2}
+  strength: 10
+  intelligence: 10
+  vitality: 10
+  aromr: 0
+  antiMagic: 10
+  itemDescription: "\u53C8\u51B7\u53C8\u70ED"
+  craftRquest:
+  - data: {fileID: 11400000, guid: e0f22a5985cbc5145bf02eae0232ceaf, type: 2}
+    stackSize: 3
+  - data: {fileID: 11400000, guid: ad54ccdba19d8fd4ea906cf5232e4b1c, type: 2}
+    stackSize: 3

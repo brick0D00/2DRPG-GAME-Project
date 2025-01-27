@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95631bc7eae089b45ba89ceaa4e6bf39, type: 3}
+  m_Name: "\u95EA\u7535\u62A4\u7B26"
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: "\u95EA\u7535\u62A4\u7B26"
+  icon: {fileID: 1306024147, guid: 9c7355b0cb8a5024bba44738f70d9e74, type: 3}
+  equipmentType: 2
+  euipmentCoolDown: 0
+  itemEffects:
+  - {fileID: 11400000, guid: 7a5d63de3c3b0f844ac63f8ea9447abf, type: 2}
+  strength: 0
+  intelligence: 20
+  vitality: 0
+  aromr: 0
+  antiMagic: 20
+  itemDescription: "\u4E22\u51FA\u53BB\u7684\u5251\u9644\u5E26\u7535\u51FB"
+  craftRquest:
+  - data: {fileID: 11400000, guid: 8cdfe27a65bdf9349aab49ffdf2b5a44, type: 2}
+    stackSize: 10
